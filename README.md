@@ -30,14 +30,15 @@
 
 ```
 	This file is used to find the edge of the picture.
-
-	Reference: [維基百科](https://en.wikipedia.org/wiki/Edge_detection)
 ```
 
 > histogramequalization.cpp
 
 ```
 	This file is used to do histogram equalization about the picture.
-
-	Reference:[維基百科] (https://en.wikipedia.org/wiki/Histogram_equalization)
 ```
+
+##Reference
+
+- [維基百科](https://en.wikipedia.org/wiki/Edge_detection)
+- [維基百科](https://en.wikipedia.org/wiki/Histogram_equalization)
