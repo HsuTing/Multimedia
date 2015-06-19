@@ -32,7 +32,7 @@
 	This file is used to find the edge of the picture.
 ```
 
-> histogramequalization.cpp
+> histogramequalization.py
 
 ```
 	This file is used to do histogram equalization about the picture.
