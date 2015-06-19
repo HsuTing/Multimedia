@@ -40,5 +40,5 @@
 
 ##Reference
 
-- [維基百科](https://en.wikipedia.org/wiki/Edge_detection)
-- [維基百科](https://en.wikipedia.org/wiki/Histogram_equalization)
+- [維基百科 - edge detection)](https://en.wikipedia.org/wiki/Edge_detection)
+- [維基百科 - histogram equalization](https://en.wikipedia.org/wiki/Histogram_equalization)
